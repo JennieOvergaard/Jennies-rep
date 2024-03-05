@@ -1,2 +1,2 @@
 # Jennies-rep
-Første repository
+First repository
